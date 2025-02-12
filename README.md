@@ -11,7 +11,7 @@
  Please refer to the requirements.txt file. All the packages as well as versions have been provided.
 
 ### Data Preparation
- Please refer to the manuscript for details. Here, we only provide data for casual model testing. [Google Drive]([https://github.com/mahmoodlab/CLAM](https://drive.google.com/drive/folders/1TgQBj3_peZXYDywGBCg33yHi_z79eKD9?usp=sharing))
+ Please refer to the manuscript for details. Here, we only provide data for casual model testing. [Google Drive](https://drive.google.com/drive/folders/1TgQBj3_peZXYDywGBCg33yHi_z79eKD9?usp=sharing).
 
 ## Model Training and Testing
  Before training and testing, please update the configs including args.targets, args.path-indicators, args.path-pm25-o3, args.land and args.mask.
@@ -21,7 +21,7 @@
  ~~~~~~~~~~~~~~~~~~
 
 ## Trained Models and Demo datasets
-The well-trained APForecaster models for PM2.5 and O3 can be found in [Google Drive]([https://github.com/mahmoodlab/CLAM](https://drive.google.com/drive/folders/1TgQBj3_peZXYDywGBCg33yHi_z79eKD9?usp=sharing)).
+The well-trained APForecaster models for PM2.5 and O3 can be found in [Google Drive](https://drive.google.com/drive/folders/1TgQBj3_peZXYDywGBCg33yHi_z79eKD9?usp=sharing).
 
 ## Contact
 If you have any questions regarding the model training and testing, please feel free to contact us. E-mail: [wenhua.yu@monash.edu](zhikang.wang@monash.edu), [zhikang.wang@monash.edu](zhikang.wang@monash.edu) 
