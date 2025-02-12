@@ -3,7 +3,7 @@ This GitHub repository is for the under-review paper "Climate Change Impact on F
 
 ## Pipeline
 <div align="center">
-  <img src="Figure.pdf">
+  <img src="Figure.png">
  </div>
 
 ## Requirements
