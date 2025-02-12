@@ -2,7 +2,9 @@
 This GitHub repository is for the under-review paper "Climate Change Impact on Future Landscape Fire Air Pollution and Global Mortality Burden". 
 
 ## Pipeline
-
+<div align="center">
+  <img src="Figure.pdf">
+ </div>
 
 ## Requirements
 ### Installation
