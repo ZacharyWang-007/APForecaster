@@ -11,7 +11,7 @@
  Please refer to the requirements.txt file. All the packages as well as versions have been provided.
 
 ### Data Preparation
- Please refer to the manuscript for details. Here, we only provide data for casual model testing and project global LFS-derived fine particulate matter (PM2.5) and ozone (O3) from 2020 to 2100.
+ Please refer to the manuscript for details. Here, we only provide data for casual model testing. [Google Drive]([https://github.com/mahmoodlab/CLAM](https://drive.google.com/drive/folders/1TgQBj3_peZXYDywGBCg33yHi_z79eKD9?usp=sharing))
 
 ## Model Training and Testing
  Before training and testing, please update the configs including args.targets, args.path-indicators, args.path-pm25-o3, args.land and args.mask.
