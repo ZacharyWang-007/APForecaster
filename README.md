@@ -4,9 +4,9 @@ This GitHub repository is for the under-review paper "Climate Change Impact on F
 ## Pipeline
 
 
-
 ## Requirements
 ### Installation
+Please refer to the requirements.txt file. All the packages as well as versions have been provided.
 
 ### Data Preparation
 
